@@ -1,1 +1,3 @@
-# Version 2 form Pomodoro App To Study
+# Simple Pomodoro App To Study
+
+State Management setState
